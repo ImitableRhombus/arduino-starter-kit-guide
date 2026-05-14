@@ -61,7 +61,8 @@ Stampa messaggi di testo e dati dei sensori. *Nota: Grazie al modulo nero pre-sa
 
 💡 **Consiglio per l'esame o il tuo progetto:**
 Inizia sempre testando **un componente alla volta**. Solo quando sei sicuro che il sensore a ultrasuoni funziona, aggiungi il display o il buzzer per creare il progetto completo. Buon making!
-
+---
+---
 🇬🇧English Version🇬🇧
 # 📚 Components Guide & Tutorials - Arduino Starter Kit
 

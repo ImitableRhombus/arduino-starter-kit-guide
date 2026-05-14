@@ -70,7 +70,7 @@ Welcome! If you purchased one of our Kits, this page contains the essential reso
 ## 🛠️ 1. The Software (Starting Point)
 Before connecting any wires, you need the software to write your code:
 * [Download the Official Arduino IDE (Windows/Mac/Linux)](https://www.arduino.cc/en/software)
-* If you have the **R4 Minima**, remember to go to *Tools > Board > Boards Manager* in the IDE and install the "Arduino UNO R4 Boards" package.
+* If you have the **R4 Minima**, remember you may have to go to *Tools > Board > Boards Manager* in the IDE and install the "Arduino UNO R4 Boards" package.
 
 ---
 

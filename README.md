@@ -6,7 +6,7 @@ Benvenuto! Se hai acquistato uno dei nostri Kit, in questa pagina troverai le ri
 ## 🛠️ 1. Il Software (Punto di partenza)
 Prima di collegare i fili, ti serve il programma per scrivere il codice:
 * [Scarica l'IDE ufficiale di Arduino (Windows/Mac/Linux)](https://www.arduino.cc/en/software)
-* Se hai la **R4 Minima**, ricordati di andare su *Strumenti > Gestione Schede* nell'IDE e installare il pacchetto "Arduino UNO R4 Boards".
+* Se hai la **R4 Minima**, ricordati che potresti dover andare su *Strumenti > Gestione Schede* nell'IDE e installare il pacchetto "Arduino UNO R4 Boards".
 
 ---
 
